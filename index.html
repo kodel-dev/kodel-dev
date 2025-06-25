@@ -1,14 +1,22 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> f1d6da76fbb3228323d70cd89297f6ed58620502
 <!DOCTYPE html>
 <html lang="en" data-theme="dark">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<<<<<<< HEAD
   <title>Kodel's Cyber Lab</title>
+=======
+  <title>Kodel's Lab</title>
+>>>>>>> f1d6da76fbb3228323d70cd89297f6ed58620502
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/daisyui@4.6.0/dist/full.css"/>
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
     html[data-theme='dark'] {
+<<<<<<< HEAD
       background-color: #1a001f;
       color: #ff80ff;
     }
@@ -18,6 +26,17 @@
     }
     .glow:hover {
       filter: drop-shadow(0 0 10px #ff80ff);
+=======
+      background-color: #0f172a;
+      color: #00ffff;
+    }
+    html[data-theme='light'] {
+      background-color: #f8fafc;
+      color: #1e293b;
+    }
+    .glow:hover {
+      filter: drop-shadow(0 0 10px #00ffff);
+>>>>>>> f1d6da76fbb3228323d70cd89297f6ed58620502
       transform: scale(1.05);
       transition: all 0.3s ease-in-out;
     }
@@ -36,15 +55,24 @@
       frameborder="0" allow="autoplay; fullscreen; vr" allowfullscreen></iframe>
   </div>
 
+<<<<<<< HEAD
   <h2 class="text-xl font-semibold mb-2">🎮 Mini Game: Tetris</h2>
   <div class="w-full max-w-2xl glow rounded-xl overflow-hidden">
     <iframe src="assets/tetris.html" class="w-full aspect-video" frameborder="0"></iframe>
+=======
+  <h2 class="text-xl font-semibold mb-2">🎮 Mini Game</h2>
+  <div class="w-full max-w-2xl glow rounded-xl overflow-hidden">
+    <iframe src="assets/game.html" class="w-full aspect-video" frameborder="0"></iframe>
+>>>>>>> f1d6da76fbb3228323d70cd89297f6ed58620502
   </div>
 
   <script>
     const theme = localStorage.getItem('theme') || 'dark';
     document.documentElement.setAttribute('data-theme', theme);
+<<<<<<< HEAD
 
+=======
+>>>>>>> f1d6da76fbb3228323d70cd89297f6ed58620502
     function toggleTheme() {
       const newTheme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
       document.documentElement.setAttribute('data-theme', newTheme);
