@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Kodel's Lab</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/daisyui@4.6.0/dist/full.css"/>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    html[data-theme='dark'] {
+      background-color: #0f172a;
+      color: #00ffff;
+    }
+    html[data-theme='light'] {
+      background-color: #f8fafc;
+      color: #1e293b;
+    }
+    .glow:hover {
+      filter: drop-shadow(0 0 10px #00ffff);
+      transform: scale(1.05);
+      transition: all 0.3s ease-in-out;
+    }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col items-center justify-center px-4 py-6">
+  <h1 class="text-4xl font-bold mb-2">👾 Welcome to Kodel's Cyber Lab</h1>
+  <button onclick="toggleTheme()" class="btn btn-outline mb-4 glow">🌓 Toggle Mode</button>
+
+  <img src="assets/hacker.gif" alt="Cyber GIF" class="w-72 glow mb-6 rounded-xl"/>
+
+  <h2 class="text-xl font-semibold mb-2">🧊 3D Model Viewer</h2>
+  <div class="w-full max-w-3xl mb-6">
+    <iframe title="3D Model" class="w-full aspect-video rounded-xl glow"
+      src="https://sketchfab.com/models/7w7pabea08e9431dbd67170c7f80ce60/embed"
+      frameborder="0" allow="autoplay; fullscreen; vr" allowfullscreen></iframe>
+  </div>
+
+  <h2 class="text-xl font-semibold mb-2">🎮 Mini Game</h2>
+  <div class="w-full max-w-2xl glow rounded-xl overflow-hidden">
+    <iframe src="assets/game.html" class="w-full aspect-video" frameborder="0"></iframe>
+  </div>
+
+  <script>
+    const theme = localStorage.getItem('theme') || 'dark';
+    document.documentElement.setAttribute('data-theme', theme);
+    function toggleTheme() {
+      const newTheme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', newTheme);
+      localStorage.setItem('theme', newTheme);
+    }
+  </script>
+</body>
+</html>
