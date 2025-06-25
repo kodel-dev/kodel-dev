@@ -9,7 +9,7 @@
 - 🔭 Currently working on: **POS App, ZEPETO World Studio map**
 - 🧠 Learning: **C++, PHP, Unity, React**
 - ✍️ I love building apps and games at night 🌙
-- 📫 Reach me at: `yourmail@example.com` *(ganti dengan emailmu)*
+- 📫 Reach me at: 
 
 ---
 
