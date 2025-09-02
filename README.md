@@ -78,9 +78,9 @@
 
 ### 🌟 Fun Zone
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake eating dots" width="400"/>
-</p>
+<div align="center" style="width:100%;max-width:600px;margin:auto;">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake eating dots" style="max-width:100%;height:auto;" />
+</div>
 <p align="center">
   <a href="https://playsnake.org/" target="_blank">
     <img src="https://img.shields.io/badge/Play%20Snake%20Game-Click%20Here-brightgreen?style=for-the-badge&logo=google-chrome" />
