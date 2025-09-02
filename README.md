@@ -52,11 +52,17 @@
 
 ---
 
+
 ### 🖼️ 3D Showcase (Sketchfab)
 <p align="center">
-  <a href="https://sketchfab.com" target="_blank">
-    <img src="https://img.shields.io/badge/3D%20Viewer-%F0%9F%94%8D-yellowgreen?style=for-the-badge" />
+  <a href="https://sketchfab.com/3d-models/high-quality-maid-model-for-games-4b46ace4d9c748cda18a6c2f751850b1" target="_blank">
+    <img src="https://media.sketchfab.com/models/4b46ace4d9c748cda18a6c2f751850b1/thumbnails/2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e/1024x576.jpeg" alt="High-Quality Maid Model for Games" width="400" style="border-radius:12px;box-shadow:0 4px 16px #00ffc355;"/>
   </a>
+</p>
+<p align="center">
+  <sub>
+    <a href="https://sketchfab.com/3d-models/high-quality-maid-model-for-games-4b46ace4d9c748cda18a6c2f751850b1">High-Quality Maid Model for Games</a> by <a href="https://sketchfab.com/dev-kodel">dev-kodel</a> on <a href="https://sketchfab.com">Sketchfab</a>
+  </sub>
 </p>
 
 ---
