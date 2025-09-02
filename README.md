@@ -56,7 +56,7 @@
 ### 🖼️ 3D Showcase (Sketchfab)
 <p align="center">
   <a href="https://sketchfab.com/3d-models/high-quality-maid-model-for-games-4b46ace4d9c748cda18a6c2f751850b1" target="_blank">
-    <img src="https://media.sketchfab.com/models/4b46ace4d9c748cda18a6c2f751850b1/thumbnails/2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e/1024x576.jpeg" alt="High-Quality Maid Model for Games" width="400" style="border-radius:12px;box-shadow:0 4px 16px #00ffc355;"/>
+  <img src="thumbnail/image.png" alt="High-Quality Maid Model for Games" width="280" style="max-width:100%;border-radius:12px;box-shadow:0 4px 16px #00ffc355;"/>
   </a>
 </p>
 <p align="center">
