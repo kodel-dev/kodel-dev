@@ -62,7 +62,7 @@
 <h3 align="center">🖼️ 3D Showcase (Sketchfab)</h3>
 <div align="center">
   <a href="https://sketchfab.com/3d-models/high-quality-maid-model-for-games-4b46ace4d9c748cda18a6c2f751850b1" target="_blank">
-    <img src="thumbnail/image.png" alt="High-Quality Maid Model" width="600" style="border-radius: 12px; border: 2px solid #00ffc3; box-shadow: 0 0 30px rgba(30, 144, 255, 0.3); transition: transform 0.3s;"/>
+    <img src="thumbnail/image.png" alt="High-Quality Maid Model" width="300" style="border-radius: 12px; border: 2px solid #00ffc3; box-shadow: 0 0 30px rgba(30, 144, 255, 0.3); transition: transform 0.3s;"/>
   </a>
   <br/>
   <p>
@@ -77,15 +77,11 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kodel-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc3&icon_color=1e90ff" width="420px"/>
-      </td>
-      <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=kodel-dev&theme=tokyonight&hide_border=true&bg_color=0d1117&ring=00ffc3&currStreakLabel=00ffc3" width="420px"/>
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodel-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc3" width="60%"/>
 </div>
 
 <br/>
