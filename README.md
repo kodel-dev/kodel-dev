@@ -82,16 +82,30 @@
       <p><b>Anime Discovery & Streaming Engine</b><br/>Multi-source aggregator, Redis cache, Prisma ORM.</p>
     </td>
     <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/COREAUTO_POS-1E90FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050814" alt="CoreAuto Pos"/>
+      <a href="https://core-auto-pos.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/COREAUTO_POS-1E90FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050814" alt="CoreAuto Pos"/>
+      </a>
       <p><b>Multi-Branch Workshop System</b><br/>POS, inventory, cash flow & commission tracking (PWA).</p>
     </td>
   </tr>
   <tr align="center">
-    <td colspan="3" valign="top">
-      <a href="https://web-core-dev-group-bot.vercell.app" target="_blank">
-        <img src="https://img.shields.io/badge/CORE_DEV_BOT-1E90FF?style=for-the-badge&logo=discord&logoColor=white&labelColor=050814" alt="Core Dev Bot"/>
+    <td width="33%" valign="top">
+      <a href="https://web-core-dev-group-bot.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/CORE_DEV_BOT-9C27B0?style=for-the-badge&logo=discord&logoColor=white&labelColor=050814" alt="Core Dev Bot"/>
       </a>
       <p><b>Discord Community Engine</b><br/>Otomasi keamanan, moderasi, ticketing, & analitik real-time.</p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://boston-point.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/BOSTON_POINT-FFC107?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=050814" alt="Boston Point"/>
+      </a>
+      <p><b>Community Management System</b><br/>Sistem manajemen operasional komunitas, pelaporan, dan reward.</p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://eclipse-the-last-prayer.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/ECLIPSE-E11D48?style=for-the-badge&logo=react&logoColor=white&labelColor=050814" alt="Eclipse"/>
+      </a>
+      <p><b>Eclipse: The Last Prayer</b><br/>Proyek rahasia dalam pengembangan.</p>
     </td>
   </tr>
 </table>
