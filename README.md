@@ -89,19 +89,13 @@
     </td>
   </tr>
   <tr align="center">
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://web-core-dev-group-bot.vercel.app" target="_blank">
         <img src="https://img.shields.io/badge/CORE_DEV_BOT-9C27B0?style=for-the-badge&logo=discord&logoColor=white&labelColor=050814" alt="Core Dev Bot"/>
       </a>
       <p><b>Discord Community Engine</b><br/>Otomasi keamanan, moderasi, ticketing, & analitik real-time.</p>
     </td>
-    <td width="33%" valign="top">
-      <a href="https://boston-point.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/BOSTON_POINT-FFC107?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=050814" alt="Boston Point"/>
-      </a>
-      <p><b>Community Management System</b><br/>Sistem manajemen operasional komunitas, pelaporan, dan reward.</p>
-    </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://eclipse-the-last-prayer.vercel.app" target="_blank">
         <img src="https://img.shields.io/badge/ECLIPSE-E11D48?style=for-the-badge&logo=react&logoColor=white&labelColor=050814" alt="Eclipse"/>
       </a>
