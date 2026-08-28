@@ -89,17 +89,23 @@
     </td>
   </tr>
   <tr align="center">
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://web-core-dev-group-bot.vercel.app" target="_blank">
         <img src="https://img.shields.io/badge/CORE_DEV_BOT-9C27B0?style=for-the-badge&logo=discord&logoColor=white&labelColor=050814" alt="Core Dev Bot"/>
       </a>
       <p><b>Discord Community Engine</b><br/>Otomasi keamanan, moderasi, ticketing, & analitik real-time.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://eclipse-the-last-prayer.vercel.app" target="_blank">
         <img src="https://img.shields.io/badge/ECLIPSE-E11D48?style=for-the-badge&logo=react&logoColor=white&labelColor=050814" alt="Eclipse"/>
       </a>
       <p><b>Eclipse: The Last Prayer</b><br/>Proyek rahasia dalam pengembangan.</p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://ahadyatraveltrip.my.id" target="_blank">
+        <img src="https://img.shields.io/badge/AHADYA_TRAVEL-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050814" alt="Ahadya Travel"/>
+      </a>
+      <p><b>Ahadya Travel Trip</b><br/>Platform layanan travel & trip modern (Client Project).</p>
     </td>
   </tr>
 </table>
