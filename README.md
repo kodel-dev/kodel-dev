@@ -43,7 +43,7 @@
 - 🚀 **Flagship Products:**
   - 💸 [**Core Finance**](https://github.com/kodel-dev/makima-finance-app) — AI Personal Finance Tracker, dibangun dengan Flutter & Llama 3.3
   - 🎌 [**Core Anime**](https://core-anime.my.id) — Anime discovery & streaming hub berbasis Next.js, dengan arsitektur aggregator multi-source (12+ provider), Jikan/MAL enrichment, Redis cache, dan circuit breaker pattern
-  - 🔧 **CoreAuto Pos** — Sistem manajemen bengkel multi-cabang (PWA) untuk POS, inventory, cash flow, dan komisi mekanik — dibangun dengan Next.js 14+, TypeScript, PostgreSQL, Prisma, Redis, dan NextAuth.js
+  - 🔧 [**CoreAuto Pos**](https://core-auto-pos.vercel.app/) — Sistem manajemen bengkel multi-cabang (PWA) untuk POS, inventory, cash flow, dan komisi mekanik — dibangun dengan Next.js 14+, TypeScript, PostgreSQL, Prisma, Redis, dan NextAuth.js
 - 🧠 **Currently Mastering:** `Next.js 16` · `Flutter & Dart` · `TypeScript` · `Prisma & PostgreSQL` · `Llama AI & OCR`
 - 🤖 **Workflow:** Menjalankan sebagian besar eksekusi development secara terstruktur, dari PRD sampai implementasi bertahap untuk memastikan kualitas.
 - 🎯 **Focus:** Membangun produk digital yang modern, cepat, dan siap produksi (production-ready).
