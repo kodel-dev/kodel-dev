@@ -6,7 +6,7 @@
   <h1>Hi there, I'm <span style="color:#00ffc3;">Kodel</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
   <a href="https://core-dev-group.my.id">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFC3&center=true&vCenter=true&width=800&lines=Founder+%26+Lead+Architect+%40+Core+Dev+Group+%F0%9F%91%91;Fullstack+Web+%26+Mobile+Developer+%E2%9A%A1;Building+Core+Finance+%2C+Core+Anime+%26+Bengkelin+%F0%9F%9A%80;Automating+builds+with+AI+coding+agents+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFC3&center=true&vCenter=true&width=800&lines=Founder+%26+Lead+Architect+%40+Core+Dev+Group+%F0%9F%91%91;Fullstack+Web+%26+Mobile+Developer+%E2%9A%A1;Building+Core+Finance+%2C+Core+Anime+%26+Bengkelin+%F0%9F%9A%80;Crafting+High-Performance+Digital+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,8 +16,8 @@
   <a href="https://core-dev-group.my.id" target="_blank">
     <img src="https://img.shields.io/badge/CORE_DEV_GROUP-Founder-00FFC3?style=for-the-badge&logo=googlecloud&logoColor=black&labelColor=050814" alt="Core Dev Group"/>
   </a>
-  <a href="https://kodel-dev.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=050814" alt="Portfolio"/>
+  <a href="https://kodelz.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050814" alt="Portfolio"/>
   </a>
   <a href="mailto:kodelz651@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050814" alt="Email"/>
@@ -45,7 +45,7 @@
   - 🎌 [**Core Anime**](https://core-anime.my.id) — Anime discovery & streaming hub berbasis Next.js, dengan arsitektur aggregator multi-source (12+ provider), Jikan/MAL enrichment, Redis cache, dan circuit breaker pattern
   - 🔧 **CoreAuto Pos** — Sistem manajemen bengkel multi-cabang (PWA) untuk POS, inventory, cash flow, dan komisi mekanik — dibangun dengan Next.js 14+, TypeScript, PostgreSQL, Prisma, Redis, dan NextAuth.js
 - 🧠 **Currently Mastering:** `Next.js 16` · `Flutter & Dart` · `TypeScript` · `Prisma & PostgreSQL` · `Llama AI & OCR`
-- 🤖 **Workflow:** Menjalankan sebagian besar eksekusi development lewat AI coding agent (Antigravity), dari PRD sampai implementasi bertahap.
+- 🤖 **Workflow:** Menjalankan sebagian besar eksekusi development secara terstruktur, dari PRD sampai implementasi bertahap untuk memastikan kualitas.
 - 🎯 **Focus:** Membangun produk digital yang modern, cepat, dan siap produksi (production-ready).
 - 🌙 **Philosophy:** *"Infrastruktur digital cepat, profesional, dan siap diluncurkan."*
 
@@ -146,8 +146,8 @@
   <a href="https://www.instagram.com/dvam.in/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@dvam.in-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=050814" alt="instagram"/>
   </a>
-  <a href="https://core-dev-group.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Website-core--dev--group.my.id-00FFC3?style=flat-square&logo=google-chrome&logoColor=black&labelColor=050814" alt="website"/>
+  <a href="https://kodelz.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-kodelz.vercel.app-00FFC3?style=flat-square&logo=vercel&logoColor=black&labelColor=050814" alt="website"/>
   </a>
 </p>
 
