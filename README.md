@@ -6,7 +6,7 @@
   <h1>Hi there, I'm <span style="color:#00ffc3;">Kodel</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
   <a href="https://core-dev-group.my.id">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFC3&center=true&vCenter=true&width=800&lines=Founder+%26+Lead+Architect+%40+Core+Dev+Group+%F0%9F%91%91;Fullstack+Web+%26+Mobile+Developer+%E2%9A%A1;Building+Core+Finance+%2C+Core+Anime+%26+Bengkelin+%F0%9F%9A%80;Crafting+High-Performance+Digital+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFC3&center=true&vCenter=true&width=800&lines=Founder+%26+Lead+Architect+%40+Core+Dev+Group+%F0%9F%91%91;Fullstack+Web+%26+API+Developer+%E2%9A%A1;Building+LogiKode%2C+EV+Specs+API+%26+CoreLab+%F0%9F%9A%80;Crafting+High-Performance+Digital+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -39,12 +39,13 @@
 
 ## ⚡ About The Founder
 
-- 👑 **Founder & Lead Architect** — Memimpin [**Core Dev Group**](https://core-dev-group.my.id), membangun infrastruktur digital berkecepatan tinggi dan ekosistem web/mobile yang scalable.
+- 👑 **Founder & Lead Architect** — Memimpin [**Core Dev Group**](https://core-dev-group.my.id), membangun infrastruktur digital berkecepatan tinggi, Web API, dan ekosistem aplikasi web yang scalable.
 - 🚀 **Flagship Products:**
-  - 💸 [**Core Finance**](https://github.com/kodel-dev/makima-finance-app) — AI Personal Finance Tracker, dibangun dengan Flutter & Llama 3.3
-  - 🎌 [**Core Anime**](https://core-anime.my.id) — Anime discovery & streaming hub berbasis Next.js, dengan arsitektur aggregator multi-source (12+ provider), Jikan/MAL enrichment, Redis cache, dan circuit breaker pattern
-  - 🔧 [**CoreAuto Pos**](https://core-auto-pos.vercel.app/) — Sistem manajemen bengkel multi-cabang (PWA) untuk POS, inventory, cash flow, dan komisi mekanik — dibangun dengan Next.js 14+, TypeScript, PostgreSQL, Prisma, Redis, dan NextAuth.js
-- 🧠 **Currently Mastering:** `Next.js 16` · `Flutter & Dart` · `TypeScript` · `Prisma & PostgreSQL` · `Llama AI & OCR`
+  - 💻 [**LogiKode**](https://logi-kode.vercel.app) — Platform belajar coding interaktif bergaya gamifikasi (*Duolingo-style*) untuk pelajar Indonesia dengan jalur belajar *mobile-first*, sistem XP, *streak*, regenerasi nyawa, dan kuis interaktif.
+  - ⚡ [**Global EV Specs API**](https://ev-specs.vercel.app) — Web API & katalog spesifikasi kendaraan listrik global (1.090+ trim dari 36 merek), dibangun dengan FastAPI, Neon PostgreSQL, dan Astro v5 lengkap dengan Live API Tester.
+  - 🧪 [**CoreLab**](https://core-dev-lab.vercel.app) — Antarmuka demo lab frontend interaktif untuk eksperimen dan showcase UI/UX modern di ekosistem Core Dev Group.
+  - 🎌 [**Core Anime**](https://core-anime.my.id) — Anime discovery & streaming hub berbasis Next.js, dengan arsitektur aggregator multi-source (12+ provider), Jikan/MAL enrichment, Redis cache, dan circuit breaker pattern.
+- 🧠 **Currently Mastering:** `Next.js 16` · `Astro v5` · `TypeScript` · `FastAPI & Python` · `PostgreSQL & Prisma` · `Redis`
 - 🤖 **Workflow:** Menjalankan sebagian besar eksekusi development secara terstruktur, dari PRD sampai implementasi bertahap untuk memastikan kualitas.
 - 🎯 **Focus:** Membangun produk digital yang modern, cepat, dan siap produksi (production-ready).
 - 🌙 **Philosophy:** *"Infrastruktur digital cepat, profesional, dan siap diluncurkan."*
@@ -57,10 +58,10 @@
 
 <br/>
 
-## 💻 Fullstack & Mobile Dev Stack
+## 💻 Fullstack & API Dev Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,flutter,dart,react,nodejs,postgres,prisma,redis,cpp,cs,python,git,vscode,firebase,linux,html&perline=9&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=nextjs,astro,ts,tailwind,react,nodejs,python,fastapi,postgres,prisma,redis,vercel,git,vscode,linux,html,cpp,cs&perline=9&theme=dark" alt="Tech Stack Icons" />
 </div>
 
 <br/>
@@ -70,36 +71,36 @@
 <table align="center" border="0" width="100%">
   <tr align="center">
     <td width="33%" valign="top">
-      <a href="https://github.com/kodel-dev/makima-finance-app" target="_blank">
-        <img src="https://img.shields.io/badge/CORE_FINANCE-CC1B1B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=050814" alt="Core Finance"/>
+      <a href="https://logi-kode.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/LOGIKODE-00FFC3?style=for-the-badge&logo=vercel&logoColor=black&labelColor=050814" alt="LogiKode"/>
       </a>
-      <p><b>AI Finance Tracker</b><br/>Flutter app dengan Llama 3.3 AI Advisor & OCR receipt scanner.</p>
+      <p><b>Gamified Coding Platform</b><br/>Belajar coding interaktif bergaya Duolingo dengan sistem XP, streak, & kuis kode.</p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://core-anime.my.id" target="_blank">
-        <img src="https://img.shields.io/badge/CORE_ANIME-00FFC3?style=for-the-badge&logo=nextdotjs&logoColor=black&labelColor=050814" alt="Core Anime"/>
+      <a href="https://ev-specs.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/EV_SPECS_API-1E90FF?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=050814" alt="Global EV Specs API"/>
       </a>
-      <p><b>Anime Discovery & Streaming Engine</b><br/>Multi-source aggregator, Redis cache, Prisma ORM.</p>
+      <p><b>Global EV Specs API</b><br/>API & katalog 1.090+ trim EV global dengan FastAPI, Neon PostgreSQL & Astro.</p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://core-auto-pos.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/COREAUTO_POS-1E90FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050814" alt="CoreAuto Pos"/>
+      <a href="https://core-dev-lab.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/CORELAB-06B6D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050814" alt="CoreLab"/>
       </a>
-      <p><b>Multi-Branch Workshop System</b><br/>POS, inventory, cash flow & commission tracking (PWA).</p>
+      <p><b>Frontend Demo Lab</b><br/>Antarmuka showcase eksperimen & demo lab web interaktif Core Dev Group.</p>
     </td>
   </tr>
   <tr align="center">
+    <td width="33%" valign="top">
+      <a href="https://core-anime.my.id" target="_blank">
+        <img src="https://img.shields.io/badge/CORE_ANIME-3B82F6?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=050814" alt="Core Anime"/>
+      </a>
+      <p><b>Anime Discovery & Streaming Engine</b><br/>Multi-source aggregator, Redis cache, Prisma ORM.</p>
+    </td>
     <td width="33%" valign="top">
       <a href="https://web-core-dev-group-bot.vercel.app" target="_blank">
         <img src="https://img.shields.io/badge/CORE_DEV_BOT-9C27B0?style=for-the-badge&logo=discord&logoColor=white&labelColor=050814" alt="Core Dev Bot"/>
       </a>
       <p><b>Discord Community Engine</b><br/>Otomasi keamanan, moderasi, ticketing, & analitik real-time.</p>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://eclipse-the-last-prayer.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/ECLIPSE-E11D48?style=for-the-badge&logo=react&logoColor=white&labelColor=050814" alt="Eclipse"/>
-      </a>
-      <p><b>Eclipse: The Last Prayer</b><br/>Proyek rahasia dalam pengembangan.</p>
     </td>
     <td width="33%" valign="top">
       <a href="https://ahadyatraveltrip.my.id" target="_blank">
